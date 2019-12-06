@@ -13,3 +13,9 @@ all their fragments from the repo's **timeline**.
 4. Four
 5. Five
 
+# Challenge
+
+Follow these [instructions](https://github.com/tacitphoenix/timeline/blob/master/CHALLEGE.md)
+
+Status: Incomplete
+
